@@ -1,0 +1,11 @@
+Network Is Empty
+Flights From LAX
+-- Flight to SFC start:101 end:201 cost:301 
+Flights From LBB
+-- Flight to SEA start:102 end:202 cost:302 
+Flights From PRT
+-- No Flights
+Flights From SEA
+-- Flight to PRT start:100 end:200 cost:300 
+Flights From SFC
+-- No Flights

@@ -1,0 +1,236 @@
+lookup (0, 0) at 0 undefined 
+lookup (1, 1) at 34 undefined 
+lookup (2, 2) at 19 undefined 
+lookup (3, 3) at 4 undefined 
+lookup (4, 4) at 26 undefined 
+lookup (5, 5) at 23 undefined 
+lookup (6, 6) at 8 undefined 
+lookup (7, 7) at 30 undefined 
+lookup (8, 8) at 15 undefined 
+lookup (9, 9) at 0 undefined 
+lookup (10, 10) at 34 undefined 
+lookup (11, 11) at 19 undefined 
+lookup (12, 12) at 4 undefined 
+lookup (13, 13) at 26 undefined 
+lookup (14, 14) at 11 undefined 
+lookup (15, 15) at 8 undefined 
+lookup (16, 16) at 30 undefined 
+lookup (17, 17) at 15 undefined 
+lookup (18, 18) at 0 undefined 
+lookup (19, 19) at 34 undefined 
+lookup (20, 20) at 19 undefined 
+lookup (21, 21) at 4 undefined 
+lookup (22, 22) at 26 undefined 
+lookup (23, 23) at 11 undefined 
+lookup (24, 24) at 8 undefined 
+lookup (25, 25) at 30 undefined 
+lookup (26, 26) at 15 undefined 
+lookup (27, 27) at 0 undefined 
+lookup (28, 28) at 22 undefined 
+lookup (29, 29) at 19 undefined 
+lookup (30, 30) at 4 undefined 
+lookup (31, 31) at 26 undefined 
+lookup (32, 32) at 11 undefined 
+lookup (33, 33) at 33 undefined 
+lookup (34, 34) at 30 undefined 
+lookup (35, 35) at 15 undefined 
+lookup (36, 36) at 0 undefined 
+lookup (37, 37) at 22 undefined 
+lookup (38, 38) at 19 undefined 
+lookup (39, 39) at 4 undefined 
+lookup (40, 40) at 26 undefined 
+lookup (41, 41) at 11 undefined 
+lookup (42, 42) at 33 undefined 
+lookup (43, 43) at 30 undefined 
+lookup (44, 44) at 15 undefined 
+lookup (45, 45) at 0 undefined 
+lookup (46, 46) at 22 undefined 
+lookup (47, 47) at 7 undefined 
+lookup (48, 48) at 4 undefined 
+lookup (49, 49) at 26 undefined 
+lookup (50, 50) at 11 undefined 
+lookup (51, 51) at 33 undefined 
+lookup (52, 52) at 18 undefined 
+lookup (53, 53) at 15 undefined 
+lookup (54, 54) at 0 undefined 
+lookup (55, 55) at 22 undefined 
+lookup (56, 56) at 7 undefined 
+lookup (57, 57) at 4 undefined 
+lookup (58, 58) at 26 undefined 
+lookup (59, 59) at 11 undefined 
+lookup (60, 60) at 33 undefined 
+lookup (61, 61) at 18 undefined 
+lookup (62, 62) at 15 undefined 
+lookup (63, 63) at 0 undefined 
+lookup (64, 64) at 22 undefined 
+lookup (65, 65) at 7 undefined 
+lookup (66, 66) at 29 undefined 
+lookup (67, 67) at 26 undefined 
+lookup (68, 68) at 11 undefined 
+lookup (69, 69) at 33 undefined 
+lookup (70, 70) at 18 undefined 
+lookup (71, 71) at 3 undefined 
+lookup (72, 72) at 0 undefined 
+lookup (73, 73) at 22 undefined 
+lookup (74, 74) at 7 undefined 
+lookup (75, 75) at 29 undefined 
+lookup (76, 76) at 26 undefined 
+lookup (77, 77) at 11 undefined 
+lookup (78, 78) at 33 undefined 
+lookup (79, 79) at 18 undefined 
+lookup (80, 80) at 3 undefined 
+lookup (81, 81) at 0 undefined 
+lookup (82, 82) at 22 undefined 
+lookup (83, 83) at 7 undefined 
+lookup (84, 84) at 29 undefined 
+lookup (85, 85) at 14 undefined 
+lookup (86, 86) at 11 undefined 
+lookup (87, 87) at 33 undefined 
+lookup (88, 88) at 18 undefined 
+lookup (89, 89) at 3 undefined 
+lookup (90, 90) at 25 undefined 
+lookup (91, 91) at 22 undefined 
+lookup (92, 92) at 7 undefined 
+adding (92, 92) 1 at 7
+adding (91, 91) 2 at 22
+adding (90, 90) 3 at 25
+adding (89, 89) 4 at 3
+adding (88, 88) 5 at 18
+adding (87, 87) 6 at 33
+adding (86, 86) 7 at 11
+adding (85, 85) 8 at 14
+adding (84, 84) 9 at 29
+adding (83, 83) 10 at 7
+adding (82, 82) 11 at 22
+adding (81, 81) 12 at 0
+adding (80, 80) 13 at 3
+adding (79, 79) 14 at 18
+adding (78, 78) 15 at 33
+adding (77, 77) 16 at 11
+adding (76, 76) 17 at 26
+adding (75, 75) 18 at 29
+adding (74, 74) 19 at 7
+adding (73, 73) 20 at 22
+adding (72, 72) 21 at 0
+adding (71, 71) 22 at 3
+adding (70, 70) 23 at 18
+adding (69, 69) 24 at 33
+adding (68, 68) 25 at 11
+adding (67, 67) 26 at 26
+adding (66, 66) 27 at 22
+adding (65, 65) 28 at 17
+adding (64, 64) 29 at 12
+adding (63, 63) 30 at 7
+adding (62, 62) 31 at 2
+adding (61, 61) 32 at 19
+adding (60, 60) 33 at 14
+adding (59, 59) 34 at 9
+adding (58, 58) 35 at 4
+adding (57, 57) 36 at 100
+adding (56, 56) 37 at 16
+adding (55, 55) 38 at 11
+adding (54, 54) 39 at 6
+adding (53, 53) 40 at 1
+adding (52, 52) 41 at 18
+adding (51, 51) 42 at 13
+adding (50, 50) 43 at 8
+adding (49, 49) 44 at 3
+adding (48, 48) 45 at 99
+adding (47, 47) 46 at 15
+adding (46, 46) 47 at 10
+adding (45, 45) 48 at 5
+adding (44, 44) 49 at 0
+adding (43, 43) 50 at 96
+adding (42, 42) 51 at 12
+adding (41, 41) 52 at 7
+adding (40, 40) 53 at 2
+adding (39, 39) 54 at 98
+adding (38, 38) 55 at 93
+adding (37, 37) 56 at 9
+adding (36, 36) 57 at 4
+adding (35, 35) 58 at 100
+adding (34, 34) 59 at 95
+adding (33, 33) 60 at 11
+adding (32, 32) 61 at 6
+adding (31, 31) 62 at 1
+adding (30, 30) 63 at 97
+adding (29, 29) 64 at 92
+adding (28, 28) 65 at 8
+adding (27, 27) 66 at 3
+adding (26, 26) 67 at 99
+adding (25, 25) 68 at 94
+adding (24, 24) 69 at 89
+adding (23, 23) 70 at 5
+adding (22, 22) 71 at 0
+adding (21, 21) 72 at 249
+adding (20, 20) 73 at 231
+adding (19, 19) 74 at 213
+adding (18, 18) 75 at 98
+adding (17, 17) 76 at 80
+adding (16, 16) 77 at 62
+adding (15, 15) 78 at 44
+adding (14, 14) 79 at 236
+adding (13, 13) 80 at 218
+adding (12, 12) 81 at 200
+adding (11, 11) 82 at 182
+adding (10, 10) 83 at 164
+adding (9, 9) 84 at 49
+adding (8, 8) 85 at 31
+adding (7, 7) 86 at 13
+adding (6, 6) 87 at 302
+adding (5, 5) 88 at 284
+adding (4, 4) 89 at 169
+adding (3, 3) 90 at 151
+adding (2, 2) 91 at 133
+adding (1, 1) 92 at 115
+adding (0, 0) 93 at 0
+lookup (0, 0) at 0 found 93
+Solution:
+--------------------------------
+jhnliuhuiulinulinliunluiNLUINLIUNLIUNliunliunkjnkjniunkjnkjnoomkjnkjnoinlnjkNJNKJNNNnkljnlkj
+
+-------------------------------
+
+Verbose Memoized LCS
+Computation Time: 0 ms
+Solution Time: 0 ms
+String 1 Length: 93
+String 2 Length: 93
+Product: 8649
+Memory Cost: 1520 
+Amortized Memory Cost: 0.175743
+
+
+
+Tabulated LCS
+Computation Time: 0 ms
+Solution Time: 0 ms
+String 1 Length: 93
+String 2 Length: 93
+Product: 8649
+Memory Cost: 70008 
+Amortized Memory Cost: 8.094346
+
+
+
+Hybrid LCS
+Computation Time: 0 ms
+Solution Time: 0 ms
+String 1 Length: 93
+String 2 Length: 93
+Product: 8649
+Memory Cost: 139200 
+Amortized Memory Cost: 16.094346
+
+
+
+Memoized LCS
+Computation Time: 0 ms
+Solution Time: 0 ms
+String 1 Length: 93
+String 2 Length: 93
+Product: 8649
+Memory Cost: 1520 
+Amortized Memory Cost: 0.175743
+
+

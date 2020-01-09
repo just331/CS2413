@@ -1,0 +1,33 @@
+pwd
+mkdir a
+mkdir a/b
+mkdir b
+ls
+touch z
+touch a
+touch .text
+touch -text
+touch _text
+touch text
+ls
+touch /a/b/text
+touch /a/b/text.file
+ls /a/b
+cd /a/b
+pwd
+mkdir text.dir
+mkdir ../c/d/e/text.dir
+mkdir ../a/b/c/d/text
+find text
+find ex
+cd /
+pwd
+ls
+rm -f a
+ls
+rm text
+rm .text
+find text
+ls /goober
+ls
+

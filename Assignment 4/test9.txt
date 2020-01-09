@@ -1,0 +1,21 @@
+insert Joe Maldenado
+insert Al Maldenado
+insert Joe Maldenado
+insert Zoe Arlington
+insert Amy Schumer
+insert Dan Copper
+insert Gil Maldenado
+insert Joe Maldenado
+list Maldenado
+preorder
+postorder
+inorder
+remove Maldenado *
+inorder
+preorder
+postorder
+remove Copper Dan
+inorder
+preorder
+postorder
+

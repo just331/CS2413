@@ -1,0 +1,43 @@
+/
+Path Error: directory '/dir' does not exist.
+Change Dir Error: Cannot change working directory.
+Listing for '/':
+/
+Listing for '/':
+D dir
+/
+Listing for '/':
+/
+Listing for '/dir':
+D dir
+/dir
+Listing for '/':
+D dir
+D dir2
+/
+Remove Error: directory '/dir' is not empty
+Listing for '/':
+D dir2
+/
+Listing for '/':
+/
+/
+/
+Path Error: directory '//dir' does not exist.
+List Error: Cannot perform list operation.
+Listing for '/dir/dir':
+D dir
+Listing for '/':
+D dir
+Listing for '/dir/dir':
+D dir
+F file
+Remove Error: directory '/dir/dir/dir' is not empty
+Listing for '/dir/dir':
+D dir
+F file
+Listing for '/dir/dir':
+F file
+/
+Listing for '/':
+/

@@ -1,0 +1,30 @@
+/
+Listing for '/':
+D foo
+/
+/foo/bar
+Listing for '/foo/bar':
+D baz
+Listing for '/foo/bar':
+D baz
+F file
+/foo/bar
+Listing for '/bar/foo':
+F file
+Path Error: directory '/foo/bar/bar' does not exist.
+Change Dir Error: Cannot change working directory.
+/foo/bar
+Path Error: directory '/foo/bar/cd' does not exist.
+List Error: Cannot perform list operation.
+'./../../foo/bar/baz' is not a recognized command
+/foo/bar
+Listing for '/':
+D bar
+D foo
+D zoo
+F file
+/
+Listing for '/':
+D bar
+D foo
+F file

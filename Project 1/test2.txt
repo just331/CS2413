@@ -1,0 +1,37 @@
+pwd
+mkdir foo
+ls
+cd foo
+pwd
+cd ..
+pwd
+mkdir bar
+ls
+cd bar
+pwd 
+cd ..
+pwd
+ls
+cd ..
+pwd
+cd . 
+pwd
+cd bar
+pwd 
+ls
+pwd
+cd .
+pwd 
+mkdir baz
+ls
+pwd
+cd baz
+pwd
+touch file
+ls
+pwd
+cd /
+pwd
+ls
+pwd
+

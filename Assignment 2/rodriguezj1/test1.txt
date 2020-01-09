@@ -1,0 +1,78 @@
+ArrayList
+prepend 10
+prepend 9
+prepend 8
+prepend 7
+prepend 6
+prepend 5
+prepend 4
+prepend 3
+prepend 2
+prepend 1
+prepend 0
+prepend -1
+append 11
+append 12
+append 13
+append 14
+append 15
+append 16
+append 17
+append 18
+append 19
+append 20
+display
+get 10
+set 10 5
+display
+removefirst
+removefirst
+removelast
+removelast 
+removefirst
+removefirst 
+removelast
+removelast
+display
+insert 5 33
+display
+remove 6
+display
+sum
+ArrayList
+display
+size
+Stack
+display
+push 5
+display
+pop
+display
+push 6
+push 7
+display
+peek
+peek
+pop
+peek
+display
+size
+endStack
+Queue
+display
+peek
+enqueue 22
+display
+peek
+dequeue
+display
+dequeue
+display
+size
+endQueue
+ArrayList
+display
+rlStressTest
+rfStressTest
+rStressTest
+display

@@ -1,0 +1,33 @@
+pwd
+touch file
+mkdir file/dir
+cd file
+pwd
+mkdir dir
+cd dir
+pwd
+mkdir ../file/dir
+cd /notdir
+cd /notdir/foo
+pwd
+cd /
+pwd
+ls
+cd notdir
+cd notdir/foo
+ls
+pwd 
+cd /
+ls
+touch dir
+mkdir file
+touch dir/dir/dir/file
+find file
+pwd
+cd /
+cd ..
+cd ../.././dir/dir/../../../dir/dir
+pwd
+ls
+cd /
+pwd

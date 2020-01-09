@@ -1,0 +1,37 @@
+/
+Path Error: Cannot create sub-directory content, '/file' is a file.
+Make Dir Error: Cannot create directory.
+Change Dir Error: Cannot change working directory.
+/
+/dir
+Path Error: Cannot create sub-directory content, '/file' is a file.
+Make Dir Error: Cannot create directory.
+Path Error: directory '/notdir' does not exist.
+Change Dir Error: Cannot change working directory.
+Path Error: directory '//notdir' does not exist.
+Change Dir Error: Cannot change working directory.
+/dir
+/
+Listing for '/':
+D dir
+F file
+Path Error: directory '/notdir' does not exist.
+Change Dir Error: Cannot change working directory.
+Path Error: directory '//notdir' does not exist.
+Change Dir Error: Cannot change working directory.
+Listing for '/':
+D dir
+F file
+/
+Listing for '/':
+D dir
+F file
+Path Error: '/dir' already exists and cannot be created.
+Touch Error: Cannot create file.
+F /dir/dir/dir/file
+D /file
+F /file
+/
+/dir/dir
+Listing for '/dir/dir':
+D dir

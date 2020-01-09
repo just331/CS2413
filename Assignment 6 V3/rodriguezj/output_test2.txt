@@ -1,0 +1,62 @@
+lookup (0, 0) at 0 undefined
+lookup (1, 1) at 23 undefined
+lookup (2, 2) at 9 undefined
+lookup (3, 3) at 32 undefined
+lookup (4, 4) at 18 undefined
+lookup (5, 5) at 4 undefined
+adding (5, 5) 1 at 4
+adding (4, 4) 2 at 18
+adding (3, 3) 3 at 32
+adding (2, 2) 4 at 9
+adding (1, 1) 5 at 23
+adding (0, 0) 6 at 0
+lookup (0, 0) at 0 found 6
+Solution:
+--------------------------------
+Hello
+
+-------------------------------
+
+Verbose Memoized LCS
+Computation Time: 0 ms
+Solution Time: 0 ms
+String 1 Length: 6
+String 2 Length: 6
+Product: 36
+Memory Cost: 831 
+Amortized Memory Cost: 23.083333
+
+
+
+Tabulated LCS
+Computation Time: 0 ms
+Solution Time: 0 ms
+String 1 Length: 6
+String 2 Length: 6
+Product: 36
+Memory Cost: 263 
+Amortized Memory Cost: 7.305556
+
+
+
+Hybrid LCS
+Computation Time: 0 ms
+Solution Time: 0 ms
+String 1 Length: 6
+String 2 Length: 6
+Product: 36
+Memory Cost: 407 
+Amortized Memory Cost: 11.305556
+
+
+
+Memoized LCS
+Computation Time: 0 ms
+Solution Time: 0 ms
+String 1 Length: 6
+String 2 Length: 6
+Product: 36
+Memory Cost: 831 
+Amortized Memory Cost: 23.083333
+
+

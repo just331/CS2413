@@ -1,0 +1,11 @@
+Add 10 10 10 John
+Add 10 100 1 Mary
+Add 100 100 100 Sue
+Add 1000 1 1 David
+Add 1 1 1000 Adam
+Add 1 1 1 Janet
+Add 1 2 1 Henry
+Add 1 3 1 Emily
+Inorder
+Preorder
+Postorder

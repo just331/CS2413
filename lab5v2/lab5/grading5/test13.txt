@@ -1,0 +1,12 @@
+Add 10 10 10 John
+Add 10 10 10 Mary
+Add 10 10 100 Sue
+Add 10 10 100 Frank
+Inorder
+Preorder
+Postorder
+Remove 1000
+Inorder
+Preorder
+Postorder
+

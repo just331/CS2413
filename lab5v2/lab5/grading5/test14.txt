@@ -1,0 +1,52 @@
+Add 10 10 10 A
+Add 10 20 5 B
+Add 10 5 20 C
+Add 5 10 20 D
+Add 10 5 20 E
+Add 20 5 10 F
+Inorder
+Preorder
+Postorder
+Add 20 10 5 G
+Add 40 5 5 H
+Add 5 40 5 I
+Add 5 5 40 J
+Add 20 2 25 K
+Inorder
+Preorder
+Postorder
+Add 100 100 100 L
+Add 1 10000 100 M
+Add 10000 100 1 N
+Add 100 1 10000 O
+Inorder
+Preorder
+Postorder
+Add 10 10000 10 P
+Add 100 1000 100 Q
+Add 100 1000 1000 R
+Add 100 1000 1001 S
+Add 100 1000 1002 T
+Add 100 1000 1003 U
+Add 100 1000 1004 V
+Inorder
+Preorder
+Postorder
+Count 1000000
+Remove 1000000
+Count 1000000
+Inorder
+Preorder
+Postorder
+RemoveAll 1000000
+Count 1000000
+Inorder
+Preorder
+Postorder
+Count 1000
+RemoveAll 1000
+Count 1000
+Inorder
+Preorder
+Postorder
+

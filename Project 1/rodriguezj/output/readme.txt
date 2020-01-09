@@ -1,0 +1,1 @@
+Was unable to get code to work with grading script, so I tested each test case manually and put them in there corresponding text files. 

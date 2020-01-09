@@ -1,0 +1,35 @@
+
+ *** skipping noisy output on pass 0
+
+Tabulated LCS
+Computation Time: 116 ms
+Solution Time: 0 ms
+String 1 Length: 2338
+String 2 Length: 2776
+Product: 6490288
+Memory Cost: 51941080 
+Amortized Memory Cost: 8.002893
+
+
+
+Hybrid LCS
+Computation Time: 363 ms
+Solution Time: 0 ms
+String 1 Length: 2338
+String 2 Length: 2776
+Product: 6490288
+Memory Cost: 103863384 
+Amortized Memory Cost: 16.002893
+
+
+
+Memoized LCS
+Computation Time: 8121 ms
+Solution Time: 0 ms
+String 1 Length: 2338
+String 2 Length: 2776
+Product: 6490288
+Memory Cost: 1520 
+Amortized Memory Cost: 0.000234
+
+

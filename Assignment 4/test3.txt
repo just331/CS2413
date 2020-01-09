@@ -1,0 +1,6 @@
+insert Joe Maldenado
+insert Al Maldenado
+insert Frank Maldenado
+inorder
+preorder
+postorder

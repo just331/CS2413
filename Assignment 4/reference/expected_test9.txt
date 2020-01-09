@@ -1,0 +1,54 @@
+Listing Maldenado:
+  Al
+  Gil
+  Joe
+  Joe
+  Joe
+Preorder:
+  Maldenado, Joe
+  Maldenado, Al
+  Arlington, Zoe
+  Copper, Dan
+  Maldenado, Joe
+  Maldenado, Gil
+  Maldenado, Joe
+  Schumer, Amy
+Postorder:
+  Copper, Dan
+  Arlington, Zoe
+  Maldenado, Joe
+  Maldenado, Gil
+  Maldenado, Joe
+  Maldenado, Al
+  Schumer, Amy
+  Maldenado, Joe
+Inorder:
+  Arlington, Zoe
+  Copper, Dan
+  Maldenado, Al
+  Maldenado, Gil
+  Maldenado, Joe
+  Maldenado, Joe
+  Maldenado, Joe
+  Schumer, Amy
+Inorder:
+  Arlington, Zoe
+  Copper, Dan
+  Schumer, Amy
+Preorder:
+  Arlington, Zoe
+  Copper, Dan
+  Schumer, Amy
+Postorder:
+  Schumer, Amy
+  Copper, Dan
+  Arlington, Zoe
+Inorder:
+  Arlington, Zoe
+  Schumer, Amy
+Preorder:
+  Arlington, Zoe
+  Schumer, Amy
+Postorder:
+  Schumer, Amy
+  Arlington, Zoe

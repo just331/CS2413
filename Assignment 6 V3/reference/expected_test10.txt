@@ -1,0 +1,50 @@
+
+ *** skipping noisy output on pass 0
+
+Solution:
+--------------------------------
+#ifndef ___map_____
+#define ___map_____
+
+#include.h
+#include"my_size_t.h"
+
+
+ap * newashap(char noisy_flag);
+
+#endif
+
+-------------------------------
+
+Tabulated LCS
+Computation Time: 4 ms
+Solution Time: 0 ms
+String 1 Length: 135
+String 2 Length: 1556
+Product: 210060
+Memory Cost: 841501 
+Amortized Memory Cost: 4.006003
+
+
+
+Hybrid LCS
+Computation Time: 9 ms
+Solution Time: 0 ms
+String 1 Length: 135
+String 2 Length: 1556
+Product: 210060
+Memory Cost: 1681741 
+Amortized Memory Cost: 8.006003
+
+
+
+Memoized LCS
+Computation Time: 198 ms
+Solution Time: 0 ms
+String 1 Length: 135
+String 2 Length: 1556
+Product: 210060
+Memory Cost: 5121261 
+Amortized Memory Cost: 24.379991
+
+

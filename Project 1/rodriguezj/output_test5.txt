@@ -1,0 +1,11 @@
+/
+Path Error: Cannot create sub-directory content, '/fileMake Dir Error: Cannot create directory.
+Cannot create sub-directory content. '/fileChange Dir Error: Cannot change working directory.
+/
+/dir
+Path Error: Cannot create sub-directory content, '/fileMake Dir Error: Cannot create directory.
+Path Error: directory '/Change Dir Error: Cannot change working directory.
+Path Error: directory '/Change Dir Error: Cannot change working directory.
+/dir
+/
+Path Error: directory '/List Error: Cannot perform list operation.

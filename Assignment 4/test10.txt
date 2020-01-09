@@ -1,0 +1,28 @@
+insert M Z
+insert B Z
+insert C Z
+insert D Z 
+insert A Z 
+insert C Z 
+insert B Z
+insert G Z
+insert M Z
+insert X Z
+insert Y Z
+insert Z Z 
+insert G Z 
+insert G Z
+insert N Z
+insert X Z
+insert Z Z
+insert K Z
+insert P Z 
+insert O Z
+insert R Z 
+inorder
+preorder
+postorder
+remove Z *
+inorder
+insert A Z
+inorder

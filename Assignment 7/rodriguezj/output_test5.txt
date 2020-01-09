@@ -1,0 +1,6 @@
+Network Is Empty
+Flights From LAX
+-- No Flights
+Flights From LBB
+-- Flight to LAX start:100 end:300 cost:400
+-- Flight to LAX start:200 end:400 cost:400

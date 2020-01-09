@@ -1,0 +1,6 @@
+List *
+Flight SEA PRT 100 200 300
+Flight LAX SFC 101 201 301
+Flight LBB SEA 102 202 302
+List *
+

@@ -1,0 +1,47 @@
+trackedmemory.c: In function ‘binSearchEntry’:
+trackedmemory.c:59:5: warning: suggest explicit braces to avoid ambiguous ‘else’ [-Wparentheses]
+   if(minloc == maxloc)
+     ^
+trackedmemory.c: In function ‘printMemoryUsage’:
+trackedmemory.c:176:3: warning: statement with no effect [-Wunused-value]
+   for(e; e < stop; e++)
+   ^
+hybridlcs.c: In function ‘hybridlcs’:
+hybridlcs.c:46:11: warning: unused variable ‘j’ [-Wunused-variable]
+    long i,j;
+           ^
+memoizedlcs.c: In function ‘MMemUsed’:
+memoizedlcs.c:98:12: warning: unused variable ‘t’ [-Wunused-variable]
+   LCSMemo* t = (LCSMemo*)l;
+            ^
+In file included from memoizedlcs.c:4:0:
+memoizedlcs.c: At top level:
+map.h:29:12: warning: ‘keyCompare’ defined but not used [-Wunused-function]
+ static int keyCompare(Key left, Key right){
+            ^
+map.h:36:13: warning: ‘printKey’ defined but not used [-Wunused-function]
+ static void printKey(Key k, char* location, my_size_t n){
+             ^
+map.h:58:13: warning: ‘printValue’ defined but not used [-Wunused-function]
+ static void printValue(Value v, char* location, my_size_t n){
+             ^
+hashmap.c: In function ‘hash’:
+hashmap.c:40:23: warning: pointer targets in initialization differ in signedness [-Wpointer-sign]
+   unsigned char * e = (char*)d;
+                       ^
+main.c: In function ‘main’:
+main.c:21:17: warning: unused variable ‘k’ [-Wunused-variable]
+   my_size_t i,j,k;
+                 ^
+main.c:21:15: warning: unused variable ‘j’ [-Wunused-variable]
+   my_size_t i,j,k;
+               ^
+main.c:19:46: warning: unused variable ‘memo_mem_usage’ [-Wunused-variable]
+   my_size_t load_mem_usage, table_mem_usage, memo_mem_usage;
+                                              ^
+main.c:19:29: warning: unused variable ‘table_mem_usage’ [-Wunused-variable]
+   my_size_t load_mem_usage, table_mem_usage, memo_mem_usage;
+                             ^
+main.c:19:13: warning: unused variable ‘load_mem_usage’ [-Wunused-variable]
+   my_size_t load_mem_usage, table_mem_usage, memo_mem_usage;
+             ^

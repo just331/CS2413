@@ -1,0 +1,1100 @@
+lookup (0, 0) at 0 undefined 
+lookup (0, 1) at 6 undefined 
+lookup (0, 2) at 12 undefined 
+lookup (0, 3) at 18 undefined 
+lookup (0, 4) at 24 undefined 
+lookup (0, 5) at 30 undefined 
+lookup (0, 6) at 36 undefined 
+lookup (0, 7) at 5 undefined 
+lookup (0, 8) at 11 undefined 
+lookup (0, 9) at 17 undefined 
+lookup (0, 10) at 23 undefined 
+lookup (0, 11) at 29 undefined 
+lookup (0, 12) at 35 undefined 
+lookup (0, 13) at 4 undefined 
+lookup (0, 14) at 10 undefined 
+lookup (0, 15) at 16 undefined 
+lookup (0, 16) at 22 undefined 
+lookup (0, 17) at 28 undefined 
+lookup (0, 18) at 34 undefined 
+lookup (0, 19) at 3 undefined 
+lookup (0, 20) at 9 undefined 
+lookup (0, 21) at 15 undefined 
+lookup (0, 22) at 21 undefined 
+lookup (0, 23) at 27 undefined 
+lookup (0, 24) at 33 undefined 
+lookup (0, 25) at 2 undefined 
+lookup (0, 26) at 8 undefined 
+lookup (0, 27) at 14 undefined 
+lookup (0, 28) at 20 undefined 
+lookup (0, 29) at 26 undefined 
+lookup (0, 30) at 32 undefined 
+lookup (0, 31) at 1 undefined 
+lookup (0, 32) at 7 undefined 
+lookup (0, 33) at 13 undefined 
+lookup (0, 34) at 19 undefined 
+lookup (0, 35) at 25 undefined 
+lookup (0, 36) at 31 undefined 
+lookup (0, 37) at 0 undefined 
+lookup (0, 38) at 6 undefined 
+lookup (0, 39) at 12 undefined 
+lookup (0, 40) at 18 undefined 
+lookup (0, 41) at 24 undefined 
+lookup (0, 42) at 30 undefined 
+lookup (0, 43) at 36 undefined 
+lookup (0, 44) at 5 undefined 
+lookup (0, 45) at 11 undefined 
+lookup (0, 46) at 17 undefined 
+lookup (0, 47) at 23 undefined 
+lookup (0, 48) at 29 undefined 
+lookup (0, 49) at 35 undefined 
+lookup (0, 50) at 4 undefined 
+lookup (0, 51) at 10 undefined 
+lookup (0, 52) at 16 undefined 
+lookup (0, 53) at 22 undefined 
+lookup (0, 54) at 28 undefined 
+lookup (0, 55) at 34 undefined 
+lookup (1, 55) at 14 undefined 
+lookup (2, 55) at 31 undefined 
+lookup (3, 55) at 11 undefined 
+lookup (4, 55) at 28 undefined 
+lookup (5, 55) at 8 undefined 
+adding (5, 55) 1 at 8
+adding (4, 55) 1 at 28
+adding (3, 55) 1 at 11
+adding (2, 55) 1 at 31
+adding (1, 55) 1 at 14
+adding (0, 55) 1 at 34
+lookup (1, 54) at 8 undefined 
+lookup (1, 55) at 14 found 1
+lookup (2, 54) at 25 undefined 
+lookup (2, 55) at 31 found 1
+lookup (3, 54) at 5 undefined 
+lookup (3, 55) at 11 found 1
+lookup (4, 54) at 22 undefined 
+lookup (4, 55) at 28 found 1
+lookup (5, 54) at 2 undefined 
+lookup (5, 55) at 8 found 1
+adding (5, 54) 1 at 2
+adding (4, 54) 1 at 22
+adding (3, 54) 1 at 5
+adding (2, 54) 1 at 25
+adding (1, 54) 1 at 8
+adding (0, 54) 1 at 28
+lookup (1, 53) at 2 undefined 
+lookup (1, 54) at 8 found 1
+lookup (2, 53) at 19 undefined 
+lookup (2, 54) at 25 found 1
+lookup (3, 53) at 36 undefined 
+lookup (3, 54) at 5 found 1
+lookup (4, 53) at 16 undefined 
+lookup (4, 54) at 22 found 1
+lookup (5, 53) at 33 undefined 
+lookup (5, 54) at 2 found 1
+adding (5, 53) 1 at 33
+adding (4, 53) 1 at 16
+adding (3, 53) 1 at 36
+adding (2, 53) 1 at 19
+adding (1, 53) 1 at 2
+adding (0, 53) 1 at 22
+lookup (1, 52) at 33 undefined 
+lookup (1, 53) at 2 found 1
+lookup (2, 52) at 13 undefined 
+lookup (2, 53) at 19 found 1
+lookup (3, 52) at 30 undefined 
+lookup (3, 53) at 36 found 1
+lookup (4, 52) at 10 undefined 
+lookup (4, 53) at 16 found 1
+lookup (5, 52) at 27 undefined 
+lookup (5, 53) at 33 found 1
+adding (5, 52) 1 at 27
+adding (4, 52) 1 at 10
+adding (3, 52) 1 at 30
+adding (2, 52) 1 at 13
+adding (1, 52) 1 at 33
+adding (0, 52) 1 at 16
+lookup (1, 51) at 27 undefined 
+lookup (1, 52) at 33 found 1
+lookup (2, 51) at 7 undefined 
+lookup (2, 52) at 13 found 1
+lookup (3, 51) at 24 undefined 
+lookup (3, 52) at 30 found 1
+lookup (4, 51) at 4 undefined 
+lookup (4, 52) at 10 found 1
+lookup (5, 51) at 21 undefined 
+lookup (5, 52) at 27 found 1
+adding (5, 51) 1 at 21
+adding (4, 51) 1 at 4
+adding (3, 51) 1 at 80
+adding (2, 51) 1 at 95
+adding (1, 51) 1 at 9
+adding (0, 51) 1 at 24
+lookup (1, 50) at 62 undefined 
+lookup (1, 51) at 9 found 1
+lookup (2, 50) at 47 undefined 
+lookup (2, 51) at 95 found 1
+lookup (3, 50) at 32 undefined 
+lookup (3, 51) at 80 found 1
+lookup (4, 50) at 17 undefined 
+lookup (4, 51) at 65 found 1
+lookup (5, 50) at 2 undefined 
+lookup (5, 51) at 50 found 1
+adding (5, 50) 1 at 2
+adding (4, 50) 1 at 17
+adding (3, 50) 1 at 32
+adding (2, 50) 1 at 47
+adding (1, 50) 1 at 62
+adding (0, 50) 1 at 77
+lookup (1, 49) at 14 undefined 
+lookup (1, 50) at 62 found 1
+lookup (2, 49) at 100 undefined 
+lookup (2, 50) at 47 found 1
+lookup (3, 49) at 85 undefined 
+lookup (3, 50) at 32 found 1
+lookup (4, 49) at 70 undefined 
+lookup (4, 50) at 17 found 1
+lookup (5, 49) at 55 undefined 
+lookup (5, 50) at 2 found 1
+adding (5, 49) 1 at 55
+adding (4, 49) 1 at 70
+adding (3, 49) 1 at 85
+adding (2, 49) 1 at 100
+adding (1, 49) 1 at 14
+adding (0, 49) 1 at 29
+lookup (1, 48) at 67 undefined 
+lookup (1, 49) at 14 found 1
+lookup (2, 48) at 52 undefined 
+lookup (2, 49) at 100 found 1
+lookup (3, 48) at 37 undefined 
+lookup (3, 49) at 85 found 1
+lookup (4, 48) at 22 undefined 
+lookup (4, 49) at 70 found 1
+lookup (5, 48) at 7 undefined 
+lookup (5, 49) at 55 found 1
+adding (5, 48) 1 at 7
+adding (4, 48) 1 at 22
+adding (3, 48) 1 at 37
+adding (2, 48) 1 at 52
+adding (1, 48) 1 at 67
+adding (0, 48) 1 at 82
+lookup (1, 47) at 19 undefined 
+lookup (1, 48) at 67 found 1
+lookup (2, 47) at 4 undefined 
+lookup (2, 48) at 52 found 1
+lookup (3, 47) at 90 undefined 
+lookup (3, 48) at 37 found 1
+lookup (4, 47) at 75 undefined 
+lookup (4, 48) at 22 found 1
+lookup (5, 47) at 60 undefined 
+lookup (5, 48) at 7 found 1
+adding (5, 47) 1 at 60
+adding (4, 47) 1 at 75
+adding (3, 47) 1 at 90
+adding (2, 47) 1 at 4
+adding (1, 47) 1 at 19
+adding (0, 47) 1 at 34
+lookup (1, 46) at 72 undefined 
+lookup (1, 47) at 19 found 1
+lookup (2, 46) at 57 undefined 
+lookup (2, 47) at 4 found 1
+lookup (3, 46) at 42 undefined 
+lookup (3, 47) at 90 found 1
+lookup (4, 46) at 27 undefined 
+lookup (4, 47) at 75 found 1
+lookup (5, 46) at 12 undefined 
+lookup (5, 47) at 60 found 1
+adding (5, 46) 1 at 12
+adding (4, 46) 1 at 27
+adding (3, 46) 1 at 42
+adding (2, 46) 1 at 57
+adding (1, 46) 1 at 72
+adding (0, 46) 1 at 87
+lookup (1, 45) at 24 undefined 
+lookup (1, 46) at 72 found 1
+lookup (2, 45) at 9 undefined 
+lookup (2, 46) at 57 found 1
+lookup (3, 45) at 95 undefined 
+lookup (3, 46) at 42 found 1
+lookup (4, 45) at 80 undefined 
+lookup (4, 46) at 27 found 1
+lookup (5, 45) at 65 undefined 
+lookup (5, 46) at 12 found 1
+adding (5, 45) 1 at 65
+adding (4, 45) 1 at 80
+adding (3, 45) 1 at 95
+adding (2, 45) 1 at 9
+adding (1, 45) 1 at 24
+adding (0, 45) 1 at 39
+lookup (1, 44) at 77 undefined 
+lookup (2, 45) at 9 found 1
+adding (1, 44) 2 at 77
+adding (0, 44) 2 at 92
+lookup (1, 43) at 29 undefined 
+lookup (1, 44) at 77 found 2
+lookup (2, 43) at 14 undefined 
+lookup (2, 44) at 62 undefined 
+lookup (2, 45) at 9 found 1
+lookup (3, 44) at 47 undefined 
+lookup (3, 45) at 95 found 1
+lookup (4, 44) at 32 undefined 
+lookup (4, 45) at 80 found 1
+lookup (5, 44) at 17 undefined 
+lookup (5, 45) at 65 found 1
+adding (5, 44) 1 at 17
+adding (4, 44) 1 at 32
+adding (3, 44) 1 at 47
+adding (2, 44) 1 at 297
+lookup (3, 43) at 234 undefined 
+lookup (3, 44) at 63 found 1
+lookup (4, 43) at 0 undefined 
+lookup (4, 44) at 136 found 1
+lookup (5, 43) at 73 undefined 
+lookup (5, 44) at 209 found 1
+adding (5, 43) 1 at 73
+adding (4, 43) 1 at 0
+adding (3, 43) 1 at 234
+adding (2, 43) 1 at 161
+adding (1, 43) 2 at 88
+adding (0, 43) 2 at 15
+lookup (1, 42) at 259 undefined 
+lookup (1, 43) at 88 found 2
+lookup (2, 42) at 25 undefined 
+lookup (2, 43) at 161 found 1
+lookup (3, 42) at 98 undefined 
+lookup (3, 43) at 234 found 1
+lookup (4, 42) at 171 undefined 
+lookup (4, 43) at 0 found 1
+lookup (5, 42) at 244 undefined 
+lookup (5, 43) at 73 found 1
+adding (5, 42) 1 at 244
+adding (4, 42) 1 at 171
+adding (3, 42) 1 at 98
+adding (2, 42) 1 at 25
+adding (1, 42) 2 at 259
+adding (0, 42) 2 at 186
+lookup (1, 41) at 123 undefined 
+lookup (1, 42) at 259 found 2
+lookup (2, 41) at 196 undefined 
+lookup (2, 42) at 25 found 1
+lookup (3, 41) at 269 undefined 
+lookup (3, 42) at 98 found 1
+lookup (4, 41) at 35 undefined 
+lookup (4, 42) at 171 found 1
+lookup (5, 41) at 108 undefined 
+lookup (5, 42) at 244 found 1
+adding (5, 41) 1 at 108
+adding (4, 41) 1 at 35
+adding (3, 41) 1 at 269
+adding (2, 41) 1 at 196
+adding (1, 41) 2 at 123
+adding (0, 41) 2 at 50
+lookup (1, 40) at 294 undefined 
+lookup (1, 41) at 123 found 2
+lookup (2, 40) at 60 undefined 
+lookup (3, 41) at 269 found 1
+adding (2, 40) 2 at 60
+adding (1, 40) 2 at 294
+adding (0, 40) 2 at 221
+lookup (1, 39) at 158 undefined 
+lookup (2, 40) at 60 found 2
+adding (1, 39) 3 at 158
+adding (0, 39) 3 at 85
+lookup (1, 38) at 22 undefined 
+lookup (1, 39) at 158 found 3
+lookup (2, 38) at 95 undefined 
+lookup (2, 39) at 231 undefined 
+lookup (2, 40) at 60 found 2
+lookup (3, 39) at 304 undefined 
+lookup (3, 40) at 133 undefined 
+lookup (3, 41) at 269 found 1
+lookup (4, 40) at 206 undefined 
+lookup (4, 41) at 35 found 1
+lookup (5, 40) at 279 undefined 
+lookup (5, 41) at 108 found 1
+adding (5, 40) 1 at 279
+adding (4, 40) 1 at 206
+adding (3, 40) 1 at 133
+lookup (4, 39) at 70 undefined 
+lookup (4, 40) at 206 found 1
+lookup (5, 39) at 143 undefined 
+lookup (5, 40) at 279 found 1
+adding (5, 39) 1 at 143
+adding (4, 39) 1 at 70
+adding (3, 39) 1 at 304
+adding (2, 39) 2 at 231
+lookup (3, 38) at 168 undefined 
+lookup (3, 39) at 304 found 1
+lookup (4, 38) at 241 undefined 
+lookup (4, 39) at 70 found 1
+lookup (5, 38) at 7 undefined 
+lookup (5, 39) at 143 found 1
+adding (5, 38) 1 at 7
+adding (4, 38) 1 at 241
+adding (3, 38) 1 at 168
+adding (2, 38) 2 at 95
+adding (1, 38) 3 at 22
+adding (0, 38) 3 at 256
+lookup (1, 37) at 193 undefined 
+lookup (1, 38) at 22 found 3
+lookup (2, 37) at 266 undefined 
+lookup (2, 38) at 95 found 2
+lookup (3, 37) at 32 undefined 
+lookup (3, 38) at 168 found 1
+lookup (4, 37) at 105 undefined 
+lookup (4, 38) at 241 found 1
+lookup (5, 37) at 178 undefined 
+lookup (5, 38) at 7 found 1
+adding (5, 37) 1 at 178
+adding (4, 37) 1 at 105
+adding (3, 37) 1 at 32
+adding (2, 37) 2 at 266
+adding (1, 37) 3 at 193
+adding (0, 37) 3 at 120
+lookup (1, 36) at 57 undefined 
+lookup (1, 37) at 193 found 3
+lookup (2, 36) at 130 undefined 
+lookup (2, 37) at 266 found 2
+lookup (3, 36) at 203 undefined 
+lookup (3, 37) at 32 found 1
+lookup (4, 36) at 276 undefined 
+lookup (4, 37) at 105 found 1
+lookup (5, 36) at 42 undefined 
+lookup (5, 37) at 178 found 1
+adding (5, 36) 1 at 42
+adding (4, 36) 1 at 276
+adding (3, 36) 1 at 203
+adding (2, 36) 2 at 130
+adding (1, 36) 3 at 57
+adding (0, 36) 3 at 291
+lookup (1, 35) at 228 undefined 
+lookup (1, 36) at 57 found 3
+lookup (2, 35) at 301 undefined 
+lookup (2, 36) at 130 found 2
+lookup (3, 35) at 67 undefined 
+lookup (3, 36) at 203 found 1
+lookup (4, 35) at 140 undefined 
+lookup (4, 36) at 276 found 1
+lookup (5, 35) at 213 undefined 
+lookup (5, 36) at 42 found 1
+adding (5, 35) 1 at 213
+adding (4, 35) 1 at 140
+adding (3, 35) 1 at 67
+adding (2, 35) 2 at 301
+adding (1, 35) 3 at 228
+adding (0, 35) 3 at 155
+lookup (1, 34) at 92 undefined 
+lookup (1, 35) at 228 found 3
+lookup (2, 34) at 165 undefined 
+lookup (2, 35) at 301 found 2
+lookup (3, 34) at 238 undefined 
+lookup (3, 35) at 67 found 1
+lookup (4, 34) at 4 undefined 
+lookup (4, 35) at 140 found 1
+lookup (5, 34) at 77 undefined 
+lookup (5, 35) at 213 found 1
+adding (5, 34) 1 at 77
+adding (4, 34) 1 at 4
+adding (3, 34) 1 at 238
+adding (2, 34) 2 at 165
+adding (1, 34) 3 at 92
+adding (0, 34) 3 at 19
+lookup (1, 33) at 263 undefined 
+lookup (1, 34) at 92 found 3
+lookup (2, 33) at 29 undefined 
+lookup (2, 34) at 165 found 2
+lookup (3, 33) at 102 undefined 
+lookup (3, 34) at 238 found 1
+lookup (4, 33) at 175 undefined 
+lookup (4, 34) at 4 found 1
+lookup (5, 33) at 248 undefined 
+lookup (5, 34) at 77 found 1
+adding (5, 33) 1 at 248
+adding (4, 33) 1 at 175
+adding (3, 33) 1 at 102
+adding (2, 33) 2 at 29
+adding (1, 33) 3 at 263
+adding (0, 33) 3 at 190
+lookup (1, 32) at 127 undefined 
+lookup (1, 33) at 263 found 3
+lookup (2, 32) at 200 undefined 
+lookup (2, 33) at 29 found 2
+lookup (3, 32) at 273 undefined 
+lookup (3, 33) at 102 found 1
+lookup (4, 32) at 39 undefined 
+lookup (4, 33) at 175 found 1
+lookup (5, 32) at 112 undefined 
+lookup (5, 33) at 248 found 1
+adding (5, 32) 1 at 112
+adding (4, 32) 1 at 39
+adding (3, 32) 1 at 273
+adding (2, 32) 2 at 200
+adding (1, 32) 3 at 127
+adding (0, 32) 3 at 54
+lookup (1, 31) at 298 undefined 
+lookup (1, 32) at 127 found 3
+lookup (2, 31) at 64 undefined 
+lookup (2, 32) at 200 found 2
+lookup (3, 31) at 137 undefined 
+lookup (3, 32) at 273 found 1
+lookup (4, 31) at 210 undefined 
+lookup (4, 32) at 39 found 1
+lookup (5, 31) at 283 undefined 
+lookup (5, 32) at 112 found 1
+adding (5, 31) 1 at 283
+adding (4, 31) 1 at 210
+adding (3, 31) 1 at 137
+adding (2, 31) 2 at 64
+adding (1, 31) 3 at 298
+adding (0, 31) 3 at 225
+lookup (1, 30) at 162 undefined 
+lookup (1, 31) at 298 found 3
+lookup (2, 30) at 235 undefined 
+lookup (2, 31) at 64 found 2
+lookup (3, 30) at 1 undefined 
+lookup (3, 31) at 137 found 1
+lookup (4, 30) at 74 undefined 
+lookup (4, 31) at 210 found 1
+lookup (5, 30) at 147 undefined 
+lookup (5, 31) at 283 found 1
+adding (5, 30) 1 at 147
+adding (4, 30) 1 at 74
+adding (3, 30) 1 at 1
+adding (2, 30) 2 at 235
+adding (1, 30) 3 at 162
+adding (0, 30) 3 at 89
+lookup (1, 29) at 26 undefined 
+lookup (1, 30) at 162 found 3
+lookup (2, 29) at 99 undefined 
+lookup (2, 30) at 235 found 2
+lookup (3, 29) at 172 undefined 
+lookup (3, 30) at 1 found 1
+lookup (4, 29) at 245 undefined 
+lookup (4, 30) at 74 found 1
+lookup (5, 29) at 11 undefined 
+lookup (5, 30) at 147 found 1
+adding (5, 29) 1 at 11
+adding (4, 29) 1 at 245
+adding (3, 29) 1 at 172
+adding (2, 29) 2 at 99
+adding (1, 29) 3 at 26
+adding (0, 29) 3 at 260
+lookup (1, 28) at 197 undefined 
+lookup (1, 29) at 26 found 3
+lookup (2, 28) at 270 undefined 
+lookup (2, 29) at 99 found 2
+lookup (3, 28) at 36 undefined 
+lookup (3, 29) at 172 found 1
+lookup (4, 28) at 109 undefined 
+lookup (4, 29) at 245 found 1
+lookup (5, 28) at 182 undefined 
+lookup (5, 29) at 11 found 1
+adding (5, 28) 1 at 182
+adding (4, 28) 1 at 109
+adding (3, 28) 1 at 36
+adding (2, 28) 2 at 270
+adding (1, 28) 3 at 197
+adding (0, 28) 3 at 124
+lookup (1, 27) at 61 undefined 
+lookup (1, 28) at 197 found 3
+lookup (2, 27) at 134 undefined 
+lookup (2, 28) at 270 found 2
+lookup (3, 27) at 207 undefined 
+lookup (3, 28) at 36 found 1
+lookup (4, 27) at 280 undefined 
+lookup (4, 28) at 109 found 1
+lookup (5, 27) at 46 undefined 
+lookup (5, 28) at 182 found 1
+adding (5, 27) 1 at 46
+adding (4, 27) 1 at 280
+adding (3, 27) 1 at 207
+adding (2, 27) 2 at 134
+adding (1, 27) 3 at 61
+adding (0, 27) 3 at 295
+lookup (1, 26) at 232 undefined 
+lookup (1, 27) at 61 found 3
+lookup (2, 26) at 305 undefined 
+lookup (2, 27) at 134 found 2
+lookup (3, 26) at 71 undefined 
+lookup (3, 27) at 207 found 1
+lookup (4, 26) at 144 undefined 
+lookup (4, 27) at 280 found 1
+lookup (5, 26) at 217 undefined 
+lookup (5, 27) at 46 found 1
+adding (5, 26) 1 at 217
+adding (4, 26) 1 at 144
+adding (3, 26) 1 at 71
+adding (2, 26) 2 at 305
+adding (1, 26) 3 at 232
+adding (0, 26) 3 at 159
+lookup (1, 25) at 96 undefined 
+lookup (1, 26) at 232 found 3
+lookup (2, 25) at 169 undefined 
+lookup (2, 26) at 305 found 2
+lookup (3, 25) at 242 undefined 
+lookup (3, 26) at 71 found 1
+lookup (4, 25) at 8 undefined 
+lookup (4, 26) at 144 found 1
+lookup (5, 25) at 81 undefined 
+lookup (5, 26) at 217 found 1
+adding (5, 25) 1 at 81
+adding (4, 25) 1 at 8
+adding (3, 25) 1 at 242
+adding (2, 25) 2 at 169
+adding (1, 25) 3 at 96
+adding (0, 25) 3 at 23
+lookup (1, 24) at 267 undefined 
+lookup (1, 25) at 96 found 3
+lookup (2, 24) at 33 undefined 
+lookup (2, 25) at 169 found 2
+lookup (3, 24) at 106 undefined 
+lookup (3, 25) at 242 found 1
+lookup (4, 24) at 179 undefined 
+lookup (4, 25) at 8 found 1
+lookup (5, 24) at 252 undefined 
+lookup (5, 25) at 81 found 1
+adding (5, 24) 1 at 252
+adding (4, 24) 1 at 179
+adding (3, 24) 1 at 106
+adding (2, 24) 2 at 33
+adding (1, 24) 3 at 267
+adding (0, 24) 3 at 194
+lookup (1, 23) at 131 undefined 
+lookup (1, 24) at 267 found 3
+lookup (2, 23) at 204 undefined 
+lookup (2, 24) at 33 found 2
+lookup (3, 23) at 277 undefined 
+lookup (3, 24) at 106 found 1
+lookup (4, 23) at 43 undefined 
+lookup (4, 24) at 179 found 1
+lookup (5, 23) at 116 undefined 
+lookup (5, 24) at 252 found 1
+adding (5, 23) 1 at 116
+adding (4, 23) 1 at 43
+adding (3, 23) 1 at 277
+adding (2, 23) 2 at 204
+adding (1, 23) 3 at 131
+adding (0, 23) 3 at 58
+lookup (1, 22) at 302 undefined 
+lookup (1, 23) at 131 found 3
+lookup (2, 22) at 68 undefined 
+lookup (2, 23) at 204 found 2
+lookup (3, 22) at 141 undefined 
+lookup (3, 23) at 277 found 1
+lookup (4, 22) at 214 undefined 
+lookup (4, 23) at 43 found 1
+lookup (5, 22) at 287 undefined 
+lookup (5, 23) at 116 found 1
+adding (5, 22) 1 at 287
+adding (4, 22) 1 at 214
+adding (3, 22) 1 at 141
+adding (2, 22) 2 at 68
+adding (1, 22) 3 at 302
+adding (0, 22) 3 at 229
+lookup (1, 21) at 166 undefined 
+lookup (1, 22) at 302 found 3
+lookup (2, 21) at 239 undefined 
+lookup (2, 22) at 68 found 2
+lookup (3, 21) at 5 undefined 
+lookup (3, 22) at 141 found 1
+lookup (4, 21) at 78 undefined 
+lookup (4, 22) at 214 found 1
+lookup (5, 21) at 151 undefined 
+lookup (5, 22) at 287 found 1
+adding (5, 21) 1 at 151
+adding (4, 21) 1 at 78
+adding (3, 21) 1 at 5
+adding (2, 21) 2 at 239
+adding (1, 21) 3 at 166
+adding (0, 21) 3 at 93
+lookup (1, 20) at 30 undefined 
+lookup (1, 21) at 166 found 3
+lookup (2, 20) at 103 undefined 
+lookup (2, 21) at 239 found 2
+lookup (3, 20) at 176 undefined 
+lookup (3, 21) at 5 found 1
+lookup (4, 20) at 249 undefined 
+lookup (4, 21) at 78 found 1
+lookup (5, 20) at 15 undefined 
+lookup (5, 21) at 151 found 1
+adding (5, 20) 1 at 15
+adding (4, 20) 1 at 249
+adding (3, 20) 1 at 176
+adding (2, 20) 2 at 103
+adding (1, 20) 3 at 30
+adding (0, 20) 3 at 698
+lookup (1, 19) at 552 undefined 
+lookup (1, 20) at 485 found 3
+lookup (2, 19) at 339 undefined 
+lookup (2, 20) at 272 found 2
+lookup (3, 19) at 126 undefined 
+lookup (3, 20) at 59 found 1
+lookup (4, 19) at 932 undefined 
+lookup (4, 20) at 865 found 1
+lookup (5, 19) at 719 undefined 
+lookup (5, 20) at 652 found 1
+adding (5, 19) 1 at 719
+adding (4, 19) 1 at 932
+adding (3, 19) 1 at 126
+adding (2, 19) 2 at 339
+adding (1, 19) 3 at 552
+adding (0, 19) 3 at 765
+lookup (1, 18) at 619 undefined 
+lookup (1, 19) at 552 found 3
+lookup (2, 18) at 406 undefined 
+lookup (2, 19) at 339 found 2
+lookup (3, 18) at 193 undefined 
+lookup (3, 19) at 126 found 1
+lookup (4, 18) at 999 undefined 
+lookup (4, 19) at 932 found 1
+lookup (5, 18) at 786 undefined 
+lookup (5, 19) at 719 found 1
+adding (5, 18) 1 at 786
+adding (4, 18) 1 at 999
+adding (3, 18) 1 at 193
+adding (2, 18) 2 at 406
+adding (1, 18) 3 at 619
+adding (0, 18) 3 at 832
+lookup (1, 17) at 686 undefined 
+lookup (1, 18) at 619 found 3
+lookup (2, 17) at 473 undefined 
+lookup (2, 18) at 406 found 2
+lookup (3, 17) at 260 undefined 
+lookup (3, 18) at 193 found 1
+lookup (4, 17) at 47 undefined 
+lookup (4, 18) at 999 found 1
+lookup (5, 17) at 853 undefined 
+lookup (5, 18) at 786 found 1
+adding (5, 17) 1 at 853
+adding (4, 17) 1 at 47
+adding (3, 17) 1 at 260
+adding (2, 17) 2 at 473
+adding (1, 17) 3 at 686
+adding (0, 17) 3 at 899
+lookup (1, 16) at 753 undefined 
+lookup (2, 17) at 473 found 2
+adding (1, 16) 3 at 753
+adding (0, 16) 3 at 966
+lookup (1, 15) at 820 undefined 
+lookup (1, 16) at 753 found 3
+lookup (2, 15) at 607 undefined 
+lookup (2, 16) at 540 undefined 
+lookup (2, 17) at 473 found 2
+lookup (3, 16) at 327 undefined 
+lookup (3, 17) at 260 found 1
+lookup (4, 16) at 114 undefined 
+lookup (4, 17) at 47 found 1
+lookup (5, 16) at 920 undefined 
+lookup (5, 17) at 853 found 1
+adding (5, 16) 1 at 920
+adding (4, 16) 1 at 114
+adding (3, 16) 1 at 327
+adding (2, 16) 2 at 540
+lookup (3, 15) at 394 undefined 
+lookup (3, 16) at 327 found 1
+lookup (4, 15) at 181 undefined 
+lookup (4, 16) at 114 found 1
+lookup (5, 15) at 987 undefined 
+lookup (5, 16) at 920 found 1
+adding (5, 15) 1 at 987
+adding (4, 15) 1 at 181
+adding (3, 15) 1 at 394
+adding (2, 15) 2 at 607
+adding (1, 15) 3 at 820
+adding (0, 15) 3 at 14
+lookup (1, 14) at 887 undefined 
+lookup (1, 15) at 820 found 3
+lookup (2, 14) at 674 undefined 
+lookup (2, 15) at 607 found 2
+lookup (3, 14) at 461 undefined 
+lookup (3, 15) at 394 found 1
+lookup (4, 14) at 248 undefined 
+lookup (4, 15) at 181 found 1
+lookup (5, 14) at 35 undefined 
+lookup (5, 15) at 987 found 1
+adding (5, 14) 1 at 35
+adding (4, 14) 1 at 248
+adding (3, 14) 1 at 461
+adding (2, 14) 2 at 674
+adding (1, 14) 3 at 887
+adding (0, 14) 3 at 81
+lookup (1, 13) at 954 undefined 
+lookup (1, 14) at 887 found 3
+lookup (2, 13) at 741 undefined 
+lookup (2, 14) at 674 found 2
+lookup (3, 13) at 528 undefined 
+lookup (3, 14) at 461 found 1
+lookup (4, 13) at 315 undefined 
+lookup (4, 14) at 248 found 1
+lookup (5, 13) at 102 undefined 
+lookup (5, 14) at 35 found 1
+adding (5, 13) 1 at 102
+adding (4, 13) 1 at 315
+adding (3, 13) 1 at 528
+adding (2, 13) 2 at 741
+adding (1, 13) 3 at 954
+adding (0, 13) 3 at 148
+lookup (1, 12) at 2 undefined 
+lookup (1, 13) at 954 found 3
+lookup (2, 12) at 808 undefined 
+lookup (2, 13) at 741 found 2
+lookup (3, 12) at 595 undefined 
+lookup (3, 13) at 528 found 1
+lookup (4, 12) at 382 undefined 
+lookup (4, 13) at 315 found 1
+lookup (5, 12) at 169 undefined 
+lookup (5, 13) at 102 found 1
+adding (5, 12) 1 at 169
+adding (4, 12) 1 at 382
+adding (3, 12) 1 at 595
+adding (2, 12) 2 at 808
+adding (1, 12) 3 at 2
+adding (0, 12) 3 at 215
+lookup (1, 11) at 69 undefined 
+lookup (1, 12) at 2 found 3
+lookup (2, 11) at 875 undefined 
+lookup (2, 12) at 808 found 2
+lookup (3, 11) at 662 undefined 
+lookup (3, 12) at 595 found 1
+lookup (4, 11) at 449 undefined 
+lookup (4, 12) at 382 found 1
+lookup (5, 11) at 236 undefined 
+lookup (5, 12) at 169 found 1
+adding (5, 11) 1 at 236
+adding (4, 11) 1 at 449
+adding (3, 11) 1 at 662
+adding (2, 11) 2 at 875
+adding (1, 11) 3 at 69
+adding (0, 11) 3 at 282
+lookup (1, 10) at 136 undefined 
+lookup (1, 11) at 69 found 3
+lookup (2, 10) at 942 undefined 
+lookup (2, 11) at 875 found 2
+lookup (3, 10) at 729 undefined 
+lookup (3, 11) at 662 found 1
+lookup (4, 10) at 516 undefined 
+lookup (4, 11) at 449 found 1
+lookup (5, 10) at 303 undefined 
+lookup (5, 11) at 236 found 1
+adding (5, 10) 1 at 303
+adding (4, 10) 1 at 516
+adding (3, 10) 1 at 729
+adding (2, 10) 2 at 942
+adding (1, 10) 3 at 136
+adding (0, 10) 3 at 349
+lookup (1, 9) at 203 undefined 
+lookup (1, 10) at 136 found 3
+lookup (2, 9) at 1009 undefined 
+lookup (2, 10) at 942 found 2
+lookup (3, 9) at 796 undefined 
+lookup (3, 10) at 729 found 1
+lookup (4, 9) at 583 undefined 
+lookup (4, 10) at 516 found 1
+lookup (5, 9) at 370 undefined 
+lookup (5, 10) at 303 found 1
+adding (5, 9) 1 at 370
+adding (4, 9) 1 at 583
+adding (3, 9) 1 at 796
+adding (2, 9) 2 at 1009
+adding (1, 9) 3 at 203
+adding (0, 9) 3 at 416
+lookup (1, 8) at 270 undefined 
+lookup (1, 9) at 203 found 3
+lookup (2, 8) at 57 undefined 
+lookup (2, 9) at 1009 found 2
+lookup (3, 8) at 863 undefined 
+lookup (3, 9) at 796 found 1
+lookup (4, 8) at 650 undefined 
+lookup (4, 9) at 583 found 1
+lookup (5, 8) at 437 undefined 
+lookup (5, 9) at 370 found 1
+adding (5, 8) 1 at 437
+adding (4, 8) 1 at 650
+adding (3, 8) 1 at 863
+adding (2, 8) 2 at 57
+adding (1, 8) 3 at 270
+adding (0, 8) 3 at 483
+lookup (1, 7) at 337 undefined 
+lookup (1, 8) at 270 found 3
+lookup (2, 7) at 124 undefined 
+lookup (2, 8) at 57 found 2
+lookup (3, 7) at 930 undefined 
+lookup (3, 8) at 863 found 1
+lookup (4, 7) at 717 undefined 
+lookup (4, 8) at 650 found 1
+lookup (5, 7) at 504 undefined 
+lookup (5, 8) at 437 found 1
+adding (5, 7) 1 at 504
+adding (4, 7) 1 at 717
+adding (3, 7) 1 at 930
+adding (2, 7) 2 at 124
+adding (1, 7) 3 at 337
+adding (0, 7) 3 at 550
+lookup (1, 6) at 404 undefined 
+lookup (1, 7) at 337 found 3
+lookup (2, 6) at 191 undefined 
+lookup (2, 7) at 124 found 2
+lookup (3, 6) at 997 undefined 
+lookup (3, 7) at 930 found 1
+lookup (4, 6) at 784 undefined 
+lookup (4, 7) at 717 found 1
+lookup (5, 6) at 571 undefined 
+lookup (5, 7) at 504 found 1
+adding (5, 6) 1 at 571
+adding (4, 6) 1 at 784
+adding (3, 6) 1 at 997
+adding (2, 6) 2 at 191
+adding (1, 6) 3 at 404
+adding (0, 6) 3 at 617
+lookup (1, 5) at 471 undefined 
+lookup (1, 6) at 404 found 3
+lookup (2, 5) at 258 undefined 
+lookup (2, 6) at 191 found 2
+lookup (3, 5) at 45 undefined 
+lookup (3, 6) at 997 found 1
+lookup (4, 5) at 851 undefined 
+lookup (4, 6) at 784 found 1
+lookup (5, 5) at 638 undefined 
+lookup (5, 6) at 571 found 1
+adding (5, 5) 1 at 638
+adding (4, 5) 1 at 851
+adding (3, 5) 1 at 45
+adding (2, 5) 2 at 258
+adding (1, 5) 3 at 471
+adding (0, 5) 3 at 684
+lookup (1, 4) at 538 undefined 
+lookup (1, 5) at 471 found 3
+lookup (2, 4) at 325 undefined 
+lookup (2, 5) at 258 found 2
+lookup (3, 4) at 112 undefined 
+lookup (3, 5) at 45 found 1
+lookup (4, 4) at 918 undefined 
+lookup (4, 5) at 851 found 1
+lookup (5, 4) at 705 undefined 
+lookup (5, 5) at 638 found 1
+adding (5, 4) 1 at 705
+adding (4, 4) 1 at 918
+adding (3, 4) 1 at 112
+adding (2, 4) 2 at 325
+adding (1, 4) 3 at 538
+adding (0, 4) 3 at 751
+lookup (1, 3) at 605 undefined 
+lookup (1, 4) at 538 found 3
+lookup (2, 3) at 392 undefined 
+lookup (2, 4) at 325 found 2
+lookup (3, 3) at 179 undefined 
+lookup (3, 4) at 112 found 1
+lookup (4, 3) at 985 undefined 
+lookup (4, 4) at 918 found 1
+lookup (5, 3) at 772 undefined 
+lookup (5, 4) at 705 found 1
+adding (5, 3) 1 at 772
+adding (4, 3) 1 at 985
+adding (3, 3) 1 at 179
+adding (2, 3) 2 at 392
+adding (1, 3) 3 at 605
+adding (0, 3) 3 at 818
+lookup (1, 2) at 672 undefined 
+lookup (1, 3) at 605 found 3
+lookup (2, 2) at 459 undefined 
+lookup (2, 3) at 392 found 2
+lookup (3, 2) at 246 undefined 
+lookup (3, 3) at 179 found 1
+lookup (4, 2) at 33 undefined 
+lookup (4, 3) at 985 found 1
+lookup (5, 2) at 839 undefined 
+lookup (5, 3) at 772 found 1
+adding (5, 2) 1 at 839
+adding (4, 2) 1 at 33
+adding (3, 2) 1 at 246
+adding (2, 2) 2 at 459
+adding (1, 2) 3 at 672
+adding (0, 2) 3 at 885
+lookup (1, 1) at 739 undefined 
+lookup (1, 2) at 672 found 3
+lookup (2, 1) at 526 undefined 
+lookup (2, 2) at 459 found 2
+lookup (3, 1) at 313 undefined 
+lookup (3, 2) at 246 found 1
+lookup (4, 1) at 100 undefined 
+lookup (4, 2) at 33 found 1
+lookup (5, 1) at 906 undefined 
+lookup (5, 2) at 839 found 1
+adding (5, 1) 1 at 906
+adding (4, 1) 1 at 100
+adding (3, 1) 1 at 313
+adding (2, 1) 2 at 526
+adding (1, 1) 3 at 739
+adding (0, 1) 3 at 952
+lookup (1, 0) at 806 undefined 
+lookup (1, 1) at 739 found 3
+lookup (2, 0) at 593 undefined 
+lookup (2, 1) at 526 found 2
+lookup (3, 0) at 380 undefined 
+lookup (3, 1) at 313 found 1
+lookup (4, 0) at 167 undefined 
+lookup (4, 1) at 100 found 1
+lookup (5, 0) at 973 undefined 
+lookup (5, 1) at 906 found 1
+adding (5, 0) 1 at 973
+adding (4, 0) 1 at 167
+adding (3, 0) 1 at 380
+adding (2, 0) 2 at 593
+adding (1, 0) 3 at 806
+adding (0, 0) 3 at 0
+lookup (0, 0) at 0 found 3
+lookup (0, 1) at 952 found 3
+lookup (0, 0) at 0 found 3
+lookup (0, 2) at 885 found 3
+lookup (0, 1) at 952 found 3
+lookup (0, 3) at 818 found 3
+lookup (0, 2) at 885 found 3
+lookup (0, 4) at 751 found 3
+lookup (0, 3) at 818 found 3
+lookup (0, 5) at 684 found 3
+lookup (0, 4) at 751 found 3
+lookup (0, 6) at 617 found 3
+lookup (0, 5) at 684 found 3
+lookup (0, 7) at 550 found 3
+lookup (0, 6) at 617 found 3
+lookup (0, 8) at 483 found 3
+lookup (0, 7) at 550 found 3
+lookup (0, 9) at 416 found 3
+lookup (0, 8) at 483 found 3
+lookup (0, 10) at 349 found 3
+lookup (0, 9) at 416 found 3
+lookup (0, 11) at 282 found 3
+lookup (0, 10) at 349 found 3
+lookup (0, 12) at 215 found 3
+lookup (0, 11) at 282 found 3
+lookup (0, 13) at 148 found 3
+lookup (0, 12) at 215 found 3
+lookup (0, 14) at 81 found 3
+lookup (0, 13) at 148 found 3
+lookup (0, 15) at 14 found 3
+lookup (0, 14) at 81 found 3
+lookup (0, 16) at 966 found 3
+lookup (0, 15) at 14 found 3
+lookup (0, 17) at 899 found 3
+lookup (0, 16) at 966 found 3
+lookup (0, 18) at 832 found 3
+lookup (0, 17) at 899 found 3
+lookup (0, 19) at 765 found 3
+lookup (0, 18) at 832 found 3
+lookup (0, 20) at 698 found 3
+lookup (0, 19) at 765 found 3
+lookup (0, 21) at 631 found 3
+lookup (0, 20) at 698 found 3
+lookup (0, 22) at 564 found 3
+lookup (0, 21) at 631 found 3
+lookup (0, 23) at 497 found 3
+lookup (0, 22) at 564 found 3
+lookup (0, 24) at 430 found 3
+lookup (0, 23) at 497 found 3
+lookup (0, 25) at 363 found 3
+lookup (0, 24) at 430 found 3
+lookup (0, 26) at 296 found 3
+lookup (0, 25) at 363 found 3
+lookup (0, 27) at 229 found 3
+lookup (0, 26) at 296 found 3
+lookup (0, 28) at 162 found 3
+lookup (0, 27) at 229 found 3
+lookup (0, 29) at 95 found 3
+lookup (0, 28) at 162 found 3
+lookup (0, 30) at 28 found 3
+lookup (0, 29) at 95 found 3
+lookup (0, 31) at 980 found 3
+lookup (0, 30) at 28 found 3
+lookup (0, 32) at 913 found 3
+lookup (0, 31) at 980 found 3
+lookup (0, 33) at 846 found 3
+lookup (0, 32) at 913 found 3
+lookup (0, 34) at 779 found 3
+lookup (0, 33) at 846 found 3
+lookup (0, 35) at 712 found 3
+lookup (0, 34) at 779 found 3
+lookup (0, 36) at 645 found 3
+lookup (0, 35) at 712 found 3
+lookup (0, 37) at 578 found 3
+lookup (0, 36) at 645 found 3
+lookup (0, 38) at 511 found 3
+lookup (0, 37) at 578 found 3
+lookup (0, 39) at 444 found 3
+lookup (0, 38) at 511 found 3
+lookup (0, 40) at 377 found 2
+lookup (0, 39) at 444 found 3
+lookup (3, 42) at 623 found 1
+lookup (3, 41) at 690 found 1
+lookup (3, 43) at 556 found 1
+lookup (3, 42) at 623 found 1
+lookup (3, 44) at 489 found 1
+lookup (3, 43) at 556 found 1
+lookup (3, 45) at 422 found 1
+lookup (3, 44) at 489 found 1
+lookup (3, 46) at 355 found 1
+lookup (3, 45) at 422 found 1
+lookup (3, 47) at 288 found 1
+lookup (3, 46) at 355 found 1
+lookup (3, 48) at 221 found 1
+lookup (3, 47) at 288 found 1
+lookup (3, 49) at 154 found 1
+lookup (3, 48) at 221 found 1
+lookup (3, 50) at 87 found 1
+lookup (3, 49) at 154 found 1
+lookup (3, 51) at 20 found 1
+lookup (3, 50) at 87 found 1
+lookup (3, 52) at 972 found 1
+lookup (3, 51) at 20 found 1
+lookup (3, 53) at 905 found 1
+lookup (3, 52) at 972 found 1
+lookup (3, 54) at 838 found 1
+lookup (3, 53) at 905 found 1
+lookup (3, 55) at 771 found 1
+lookup (3, 54) at 838 found 1
+Solution:
+--------------------------------
+or
+-------------------------------
+
+Verbose Memoized LCS
+Computation Time: 0 ms
+Solution Time: 0 ms
+String 1 Length: 6
+String 2 Length: 56
+Product: 336
+Memory Cost: 16540 
+Amortized Memory Cost: 49.226190
+
+
+
+Tabulated LCS
+Computation Time: 0 ms
+Solution Time: 0 ms
+String 1 Length: 6
+String 2 Length: 56
+Product: 336
+Memory Cost: 1459 
+Amortized Memory Cost: 4.342262
+
+
+
+Hybrid LCS
+Computation Time: 0 ms
+Solution Time: 0 ms
+String 1 Length: 6
+String 2 Length: 56
+Product: 336
+Memory Cost: 2804 
+Amortized Memory Cost: 8.345238
+
+
+
+Memoized LCS
+Computation Time: 0 ms
+Solution Time: 0 ms
+String 1 Length: 6
+String 2 Length: 56
+Product: 336
+Memory Cost: 16540 
+Amortized Memory Cost: 49.226190
+
+

@@ -1,0 +1,24 @@
+/
+Path Error: directory '/Change Dir Error: Cannot change working directory.
+Path Error: directory '/List Error: Cannot perform list operation.
+Path Error: directory '/List Error: Cannot perform list operation.
+Path Error: directory '/List Error: Cannot perform list operation.
+Path Error: directory '/dirList Error: Cannot perform list operation.
+Path Error: directory '/List Error: Cannot perform list operation.
+Remove Error: directory '/dirPath Error: directory '/List Error: Cannot perform list operation.
+Path Error: directory '/List Error: Cannot perform list operation.
+/
+/
+Path Error: directory '/List Error: Cannot perform list operation.
+Listing for '/dir/dir'
+D dir
+Listing for '/dir/dir'
+D dir
+F file
+Remove Error: directory '/dir/dir/dirListing for '/dir/dir'
+D dir
+F file
+Listing for '/dir/dir'
+F file
+/
+Path Error: directory '/List Error: Cannot perform list operation.

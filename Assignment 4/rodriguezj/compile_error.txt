@@ -1,0 +1,25 @@
+In file included from BST.h:5:0,
+                 from main.c:1:
+element.h:35:15: warning: ‘printElement’ defined but not used [-Wunused-function]
+ static void * printElement(void *a, Element e){
+               ^
+element.h:46:15: warning: ‘listWithLastname’ defined but not used [-Wunused-function]
+ static void * listWithLastname(void * a, Element e){
+               ^
+BST.c: In function ‘removeFunc’:
+BST.c:182:35: warning: value computed is not used [-Wunused-value]
+                 n -> left -> left - nodeInsert(n -> left -> left, n -> right);
+                                   ^
+In file included from BST.h:5:0,
+                 from BST.c:1:
+BST.c: At top level:
+element.h:35:15: warning: ‘printElement’ defined but not used [-Wunused-function]
+ static void * printElement(void *a, Element e){
+               ^
+element.h:46:15: warning: ‘listWithLastname’ defined but not used [-Wunused-function]
+ static void * listWithLastname(void * a, Element e){
+               ^
+BST.c: In function ‘nodeInsert’:
+BST.c:78:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^

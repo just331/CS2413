@@ -1,0 +1,9 @@
+Inorder:
+	Maldenado, Al
+	Maldenado, Frank
+Preorder:
+	Maldenado, Al
+	Maldenado, Frank
+Postorder:
+	Maldenado, Frank
+	Maldenado, Al

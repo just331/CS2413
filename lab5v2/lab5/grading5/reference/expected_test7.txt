@@ -1,0 +1,12 @@
+Inorder:
+Box(H = 10, W = 10, D = 1, A = 100, O = Mary)
+Box(H = 10, W = 10, D = 2, A = 200, O = Sue)
+Box(H = 10, W = 10, D = 10, A = 1000, O = John)
+Preorder:
+Box(H = 10, W = 10, D = 2, A = 200, O = Sue)
+Box(H = 10, W = 10, D = 1, A = 100, O = Mary)
+Box(H = 10, W = 10, D = 10, A = 1000, O = John)
+Postorder:
+Box(H = 10, W = 10, D = 1, A = 100, O = Mary)
+Box(H = 10, W = 10, D = 10, A = 1000, O = John)
+Box(H = 10, W = 10, D = 2, A = 200, O = Sue)

@@ -1,0 +1,4 @@
+insert Joe Maldenado
+insert Al Maldenado
+inorder
+preorder

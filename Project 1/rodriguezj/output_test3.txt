@@ -1,0 +1,4 @@
+/
+Path Error: directory '/List Error: Cannot perform list operation.
+/foo/bar
+Path Error: directory '/foo/barList Error: Cannot perform list operation.

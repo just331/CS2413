@@ -1,0 +1,2 @@
+LCS ../text8.txt  ../text9.txt
+

@@ -1,0 +1,41 @@
+pwd
+cd dir
+ls
+pwd
+mkdir dir
+ls
+pwd
+rm dir
+ls
+pwd
+mkdir dir
+mkdir dir2
+cd dir
+mkdir dir
+ls
+pwd
+cd ..
+ls
+pwd
+rm dir
+rm -f dir
+ls
+pwd
+rm dir2
+ls
+pwd
+pwd
+pwd
+ls dir/dir
+mkdir dir/dir/dir/dir/dir/dir
+ls dir/dir
+touch /dir/dir/file
+ls /dir/dir
+rm /dir/dir/dir
+ls /dir/dir
+rm -f dir/dir/dir
+ls dir/dir
+rm -f /dir
+pwd
+ls
+pwd

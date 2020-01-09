@@ -1,0 +1,27 @@
+Network Is Empty
+Flights From LAX
+-- Flight to PRT start:50 end:250 cost:200
+-- Flight to PRT start:100 end:300 cost:900
+Flights From LBB
+-- No Flights
+Flights From PRT
+-- No Flights
+Flights From SEA
+-- Flight to LBB start:100 end:300 cost:400
+-- Flight to LBB start:200 end:100 cost:900
+-- Flight to LBB start:200 end:400 cost:400
+-- Flight to LBB start:200 end:400 cost:500
+-- Flight to LBB start:200 end:500 cost:300
+-- Flight to LBB start:200 end:500 cost:400
+-- Flight to LBB start:500 end:400 cost:500
+-- Flight to LBB start:500 end:400 cost:400
+-- Flight to LBB start:500 end:400 cost:200
+-- Flight to LBB start:500 end:400 cost:100
+-- Flight to PRT start:300 end:400 cost:500
+-- Flight to PRT start:500 end:400 cost:300
+-- Flight to ZOO start:100 end:200 cost:300
+-- Flight to ZOO start:200 end:300 cost:400
+-- Flight to ZOO start:200 end:300 cost:400
+-- Flight to ZOO start:400 end:200 cost:300
+Flights From ZOO
+-- No Flights

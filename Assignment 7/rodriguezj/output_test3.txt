@@ -1,0 +1,9 @@
+Network Is Empty
+Flights From LAX
+-- Flight to SFC start:100 end:200 cost:300
+Flights From LBB
+-- Flight to SEA start:100 end:200 cost:300
+Flights From SEA
+-- No Flights
+Flights From SFC
+-- No Flights

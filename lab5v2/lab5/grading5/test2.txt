@@ -1,0 +1,5 @@
+Add 10 10 10 John
+Add 10 100 1 Mary
+Inorder
+Preorder
+

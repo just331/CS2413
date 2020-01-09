@@ -1,0 +1,24 @@
+In file included from main.c:4:0:
+element.h:31:12: warning: ‘eCompare’ defined but not used [-Wunused-function]
+ static int eCompare(Element left, Element right){
+            ^
+trackedmemory.c: In function ‘binSearchEntry’:
+trackedmemory.c:59:5: warning: suggest explicit braces to avoid ambiguous ‘else’ [-Wparentheses]
+   if(minloc == maxloc)
+     ^
+trackedmemory.c: In function ‘printMemoryUsage’:
+trackedmemory.c:176:3: warning: statement with no effect [-Wunused-value]
+   for(e; e < stop; e++)
+   ^
+In file included from multiset.h:3:0,
+                 from multisetbstree.h:4,
+                 from multisetbstree.c:1:
+element.h:44:15: warning: ‘printElement’ defined but not used [-Wunused-function]
+ static void * printElement(void *a, Element e){
+               ^
+In file included from bstree.h:4:0,
+                 from avltree.h:4,
+                 from avltree.c:1:
+element.h:44:15: warning: ‘printElement’ defined but not used [-Wunused-function]
+ static void * printElement(void *a, Element e){
+               ^

@@ -1,0 +1,7 @@
+Add 10 10 10 John
+Add 10 100 1 Mary
+Add 100 100 100 Sue
+Add 1000 1 1 David
+Inorder
+Preorder
+Postorder

@@ -1,0 +1,19 @@
+Add 10 10 10 John
+Add 10 10 10 Mary
+Add 10 5 20 Sue
+Add 1 1 1 Frank
+Add 100 100 100 Janet
+Inorder
+Preorder
+Postorder
+Count 1000
+Remove 1000
+Count 1000
+Inorder
+Preorder
+Postorder
+RemoveAll 1000
+Count 1000
+Inorder
+Preorder
+Postorder

@@ -1,0 +1,10 @@
+ls
+pwd
+mkdir foo
+ls
+touch bar
+ls
+mkdir baz
+ls
+touch zoo
+ls

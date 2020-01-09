@@ -1,0 +1,26 @@
+/
+Listing For '/':
+D foo
+/
+/foo/bar
+Listing For '/foo/bar':
+D baz
+Listing For '/foo/bar':
+D baz
+F file
+/foo/bar
+Listing For '/bar/foo':
+F file
+/bar/foo
+Listing For '/bar/foo':
+F file
+/foo/bar/baz
+Listing For '/foo':
+D bar
+D zoo
+F file
+/foo
+Listing For '/foo':
+D bar
+D zoo
+F file

@@ -1,0 +1,6 @@
+Inorder:
+  Maldenado, Al
+  Maldenado, Joe
+Preorder:
+  Maldenado, Joe
+  Maldenado, Al

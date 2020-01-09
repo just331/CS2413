@@ -1,0 +1,16 @@
+Listing for '/':
+/
+Listing for '/':
+D foo
+Listing for '/':
+D foo
+F bar
+Listing for '/':
+D baz
+D foo
+F bar
+Listing for '/':
+D baz
+D foo
+F bar
+F zoo

@@ -1,0 +1,27 @@
+Inorder:
+Box(H = 10, W = 10, D = 10, A = 1000, O = Mary)
+Box(H = 10, W = 10, D = 10, A = 1000, O = John)
+Box(H = 10, W = 10, D = 100, A = 10000, O = Frank)
+Box(H = 10, W = 10, D = 100, A = 10000, O = Sue)
+Preorder:
+Box(H = 10, W = 10, D = 10, A = 1000, O = John)
+Box(H = 10, W = 10, D = 10, A = 1000, O = Mary)
+Box(H = 10, W = 10, D = 100, A = 10000, O = Sue)
+Box(H = 10, W = 10, D = 100, A = 10000, O = Frank)
+Postorder:
+Box(H = 10, W = 10, D = 10, A = 1000, O = Mary)
+Box(H = 10, W = 10, D = 100, A = 10000, O = Frank)
+Box(H = 10, W = 10, D = 100, A = 10000, O = Sue)
+Box(H = 10, W = 10, D = 10, A = 1000, O = John)
+Inorder:
+Box(H = 10, W = 10, D = 10, A = 1000, O = Mary)
+Box(H = 10, W = 10, D = 100, A = 10000, O = Frank)
+Box(H = 10, W = 10, D = 100, A = 10000, O = Sue)
+Preorder:
+Box(H = 10, W = 10, D = 100, A = 10000, O = Frank)
+Box(H = 10, W = 10, D = 10, A = 1000, O = Mary)
+Box(H = 10, W = 10, D = 100, A = 10000, O = Sue)
+Postorder:
+Box(H = 10, W = 10, D = 10, A = 1000, O = Mary)
+Box(H = 10, W = 10, D = 100, A = 10000, O = Sue)
+Box(H = 10, W = 10, D = 100, A = 10000, O = Frank)

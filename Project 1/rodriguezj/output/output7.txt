@@ -1,0 +1,61 @@
+/
+Listing for '/':
+D a
+D b
+Path Error: '/a' already exists and cannot be created.
+Touch Error: Cannot create file.
+Listing for '/':
+D a
+D b
+F .text
+F -text
+F _text
+F text
+F z
+Listing for '/a/b':
+F text
+F text.file
+/a/b
+D /a/a/b/c/d/text
+D /a/b/text.dir
+F /a/b/text
+F /a/b/text.file
+D /a/c/d/e/text.dir
+F /.text
+F /-text
+F /_text
+F /text
+D /a/a/b/c/d/text
+D /a/b/text.dir
+F /a/b/text
+F /a/b/text.file
+D /a/c/d/e/text.dir
+F /.text
+F /-text
+F /_text
+F /text
+/
+Listing for '/':
+D a
+D b
+F .text
+F -text
+F _text
+F text
+F z
+Listing for '/':
+D b
+F .text
+F -text
+F _text
+F text
+F z
+F /-text
+F /_text
+Path Error: directory '/goober' does not exist.
+List Error: Cannot perform list operation.
+Listing for '/':
+D b
+F -text
+F _text
+F z

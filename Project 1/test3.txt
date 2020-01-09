@@ -1,0 +1,27 @@
+pwd
+mkdir foo/bar/baz
+ls
+pwd
+cd foo/bar
+pwd
+ls
+cd /
+touch foo/bar/file
+touch bar/foo/file
+cd foo/bar
+ls
+pwd
+ls /bar/foo
+cd /bar/foo
+pwd
+ls
+cd ./../../foo/bar/baz
+pwd
+mkdir ../../zoo
+touch ../../file
+ls ../..
+cd ../..
+pwd
+ls
+
+
