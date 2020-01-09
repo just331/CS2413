@@ -1,2 +1,0 @@
-Inorder:
-Box(H = 10, W = 10, D = 10, A = 1000, O = John)

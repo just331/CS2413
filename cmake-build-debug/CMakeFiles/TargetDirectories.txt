@@ -1,3 +1,0 @@
-C:/Users/Justin/Documents/golang/src/github.com/CS2413/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-C:/Users/Justin/Documents/golang/src/github.com/CS2413/cmake-build-debug/CMakeFiles/CS2413.dir
-C:/Users/Justin/Documents/golang/src/github.com/CS2413/cmake-build-debug/CMakeFiles/edit_cache.dir
